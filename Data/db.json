@@ -1,0 +1,155 @@
+{
+  "tourlist": [
+    {
+      "id": 1,
+      "poster": "https://www.planetware.com/wpimages/2019/11/india-best-places-to-visit-agra.jpg",
+      "title": "Agra",
+      "synopsis": "If there was just one symbol to represent all of India, it would be the Taj Mahal. The monument inspires millions of tourists to make the trip to Agra every year, waking up before dawn to see magnificent structure radiate at sunrise. But Agra tops the list of the best places to visit in India for reasons that go beyond India's most famous attraction. The city in Uttar Pradesh is chock-full of marvelous Mughal monuments, like Itimad-ud-Daulah's Tomb and Akbar's Mausoleum, decked out in hypnotic inlaid marble designs from top to bottom. Plus, tourists can also see another UNESCO World Heritage Site: the Agra Fort. With so many wonders in just one place, Agra is a must-visit city for tourists in India."
+    },
+    {
+      "id": 2,
+      "poster": "https://www.planetware.com/wpimages/2019/11/india-best-places-to-visit-new-delhi.jpg",
+      "title": "Delhi",
+      "synopsis": "Despite its crowds and chaos, New Delhi offers tourists a lot to love. The colorful capital of India is the perfect marriage of heritage and modernity. Old Delhi contains some of the country's most treasured attractions, including the Jama Masjid, Red Fort, and Chandni Chowk shopping thoroughfare. But throughout the sprawling city, tourists can explore countless other sites of spiritual and cultural importance. Top tourist attractions in New Delhi include the Lotus Temple; India Gate; Humayun's Tomb; and India's tallest minaret, Qutub Minar. Fill your days exploring these mesmerizing sites, and refueling at street-side chai stalls and high-end restaurants."
+    },
+    {
+      "id": 3,
+      "poster": "https://www.planetware.com/wpimages/2019/11/india-best-places-to-visit-mumbai.jpg",
+      "title": "Mumbai",
+      "synopsis": "Want to see a more cosmopolitan side of India? Head to the energetic, coastal city of Mumbai–home to ultra-wealthy entrepreneurs and the hottest Bollywood actors. Tourists are never far from five-star hotels or gourmet restaurants in this luxe city. And even if those activities are out of budget, a cruise down the beloved Marine Drive will make you feel like royalty as you catch a glimpse of the scenic coast and glamorous Art Deco buildings. You can also see a more authentic, local side of Mumbai in the bustling 'Thieves Market' or at the Churchgate railway station, where hundreds of thousands of homemade lunches are packed up for delivery to the city's office workers every day."
+    },
+    {
+      "id": 4,
+      "poster": "https://www.planetware.com/wpimages/2019/11/india-best-places-to-visit-rajasthan.jpg",
+      "title": "Rajasthan",
+      "synopsis": "Translated to 'Land of Kings,' Rajasthan brims with remnants of the kings and queens of past centuries. Between its glittering palaces, stately forts, and lively festivals, this western state deserves a starring role in your trip to India. Jaipur, part of the Golden Triangle Tourist Circuit, which also includes Agra and New Delhi, is one of the top places to visit in Rajasthan. Dubbed 'The Paris of India,' it's known for its characteristic pink buildings, lavish City Palace, and jewelry stores galore."
+    },
+    {
+      "id": 5,
+      "poster": "https://www.planetware.com/wpimages/2019/11/india-best-places-to-visit-rishikesh.jpg",
+      "title": "Rishikesh",
+      "synopsis": "Rishikesh has been on the radar for spiritually minded travelers since the late 1960s, when the Beatles spent time in Maharishi Mahesh Yogi's ashram–now an abandoned site that has become an off-the-beaten-path tourist attraction for fans. The town is nestled in the foothills of the Himalayas on the banks of the holy Ganges River, and serves as a center for yoga and pilgrimages. Take part in the action, or just enjoy the sounds of the temple bells and sightseeing from Rishikesh's two suspension bridges, often guarded by assertive families of monkeys. Keep your distance."
+    },
+    {
+      "id": 6,
+      "poster": "https://www.planetware.com/wpimages/2019/11/india-best-places-to-visit-varanasi.jpg",
+      "title": "Varanasi",
+      "synopsis": "One of the oldest continually inhabited cities in the world, Varanasi is arguably the holiest place in India. The spiritual activities take place along the sacred Ganges River, where pilgrims bathe and mourners cremate recently deceased relatives in plain view of passersby. Tourists, on the other hand, find their own flavor of spiritualism taking sunrise boat rides, releasing floral blessings that float on the river, and watching the fire-filled Hindu chanting ceremonies from the steep ghats."
+    },
+    {
+      "id": 7,
+      "poster": "https://www.planetware.com/wpimages/2019/11/india-best-places-to-visit-amritsar.jpg",
+      "title": "Amritsar",
+      "synopsis": "Amritsar, the 'Jewel of Punjab,' has made its claim to fame with its remarkable Golden Temple. One of the holiest places in the world for Sikhs, the gilded structure is a sight to behold, glistening in the sun and reflecting into the large pool that surrounds it. The attraction also boasts the world's largest community kitchen, which serves 100,000 diners (including curious tourists!) lentils and curries every day."
+    },
+    {
+      "id": 8,
+      "poster": "https://www.planetware.com/wpimages/2019/11/india-best-places-to-visit-goa.jpg",
+      "title": "Goa",
+      "synopsis": "India's not just full of big cities and holy sites–it also has incredible beaches down south in Goa. Its stretches of golden sand along the Arabian Sea offer something for every type of tourist, whether you're interested in hanging out with the backpacker crowd in laid-back beach huts or having a ritzy tropical getaway at a five-star resort. One unique part of Goa is its blend of Indian and Portuguese cultures. You'll experience the fusion throughout the destination, from its Baroque architecture and cathedrals to its spicy vindaloo curries and seafood dishes."
+    },
+    {
+      "id": 9,
+      "poster": "https://www.planetware.com/wpimages/2019/11/india-best-places-to-visit-kerala.jpg",
+      "title": "Kerala",
+      "synopsis": "Head south of Goa, and you'll trade beaches for tranquil backwaters in Kerala. Nothing beats the experience of hopping aboard a traditional thatched-top houseboat in Alleppey (also known as Alappuzha) and slowly floating through palm-fringed lagoons and rivers, either as a day trip or overnight adventure. You'll enjoy freshly cooked Indian cuisine on the water and breathtakingly beautiful natural sights and wildlife."
+    },
+    {
+      "id": 10,
+      "poster": "https://www.planetware.com/wpimages/2019/11/india-best-places-to-visit-ajanta-ellora-caves.jpg",
+      "title": "Ajanta and Ellora caves",
+      "synopsis": "Time travel isn't a reality for travelers quite yet, but you can get pretty close at the Ajanta and Ellora Caves in Maharashtra. Both UNESCO World Heritage Sites, the caves feature intricate carvings from at least 1,500 years ago. The Ajanta Caves are the oldest of the two attractions, featuring around 30 Buddhist cave monuments cut into the rock as far back as the 2nd century BC. Around 100 kilometers southwest, the Ellora Caves contain nearly three dozen Buddhist, Jain, and Hindu carvings, the most famous of which is the Kailasa Temple (Cave 16), a massive structure devoted to Lord Shiva that features life-size elephant sculptures. The magnificent carvings at both sites will leave you filled with wonder."
+    },
+    {
+      "id": 11,
+      "poster": "https://www.planetware.com/wpimages/2019/11/india-best-places-to-visit-darjeeling.jpg",
+      "title": "Darjeeling",
+      "synopsis": "Sightseeing in India doesn't get much better than what you'll discover in Darjeeling. The hill station in West Bengal is beloved for its lush green tea plantations, awe-inspiring snow-capped peaks (including Khangchendzonga, the world's third-highest mountain), and serene Buddhist monasteries. This is the perfect place to arrange a mountain trek or mountain biking adventure. One of the most popular things to do in Darjeeling is taking a ride on the Darjeeling Himalayan Railway. Powered by an antique steam locomotive, the 140-year-old 'Toy Train' takes tourists on two-hour fun rides from Darjeeling to Ghum–a journey that's regularly counted as one of the most scenic train rides in the world."
+    },
+    {
+      "id": 12,
+      "poster": "https://www.planetware.com/wpimages/2019/11/india-best-places-to-visit-kolkata.jpg",
+      "title": "Kolkata",
+      "synopsis": "India's third-largest city, Kolkata, is a decaying masterpiece of former British India, brimming with colonial-era architecture. The top things to do in Kolkata include seeing the Victoria Memorial, a white marble monument that features a museum with dozens of galleries, and Park Street, a famous thoroughfare with shops and restaurants that bustle 24/7, especially during the holidays. But Kolkata is as much about the sites as it is about the emotions. This is a city that will somehow induce every one of your emotions with the highs and lows of life taking place in plain view on every street. Brace yourself, and be open to the experience."
+    },
+    {
+      "id": 13,
+      "poster": "https://www.planetware.com/wpimages/2019/11/india-best-places-to-visit-ahmedabad.jpg",
+      "title": "Ahmedabad",
+      "synopsis": "The largest city in Gujarat, Ahmedabad is a noisy, overwhelming metropolis that somehow wins over the tourists who make their way here. The historic city of Ahmedabad earned the coveted title of India's first UNESCO World Heritage City in 2017 for its rich architecture, walls and gates, and significant Hindu and Jain temples. On the western bank of the Sabarmati River, tourists can wander around Sabarmati Ashram, Gandhi's headquarters from 1917 to 1930. Its museum talks about the life of the Indian hero, and displays his iconic spectacles and spinning wheel. While you're in the city, sample the street food–some say it's the best in all of India."
+    },
+    {
+      "id": 14,
+      "poster": "https://www.planetware.com/wpimages/2019/11/india-best-places-to-visit-shimla.jpg",
+      "title": "Shimla",
+      "synopsis": "When the temperatures skyrocket in New Delhi and other cities in North India, tourists and locals alike make their way to cooler climates in the hill stations, the most popular of which is Shimla. The cloudy weather and forested hillsides make for a satisfying escape from the heat, as well as a placid place to spend a weekend or more. The atmosphere in the hilly central part of town, where traffic is banned, is just as pleasant as the scenic outskirts. While you're in the area, make a reservation on the Kalka-Shimla Railway, a UNESCO World Heritage Site. The 96.6-kilometer-long railroad, which has been running for over a century, is renowned for its stunning views and authentic vintage experience."
+    },
+    {
+      "id": 15,
+      "poster": "https://www.planetware.com/wpimages/2019/11/india-best-places-to-visit-mysore.jpg",
+      "title": "Mysore",
+      "synopsis": "While culturally different, South India is as enchanting as the north–just visit Mysore to see for yourself. The third-largest city in Karnataka is considered to be the cultural capital of the state, celebrated for its high-quality silk, Mysore painting tradition, and hypnotic Hindu temples with deity carvings that nearly touch the clouds. Most tourists visit Mysore to see its World Heritage-listed palace. This attraction takes Indian grandeur to the next level, with endless mirrored decor, stained-glass windows, carved wooden doors, and intricate mosaic floors that look like the inside of a kaleidoscope. The palace is considered to be one of the country's finest examples of Indo-Saracenic design. Be sure to swing by to see the palace at night, when it's lit up with thousands of twinkle lights."
+    },
+    {
+      "id": 16,
+      "poster": "https://www.planetware.com/wpimages/2022/03/india-best-places-to-visit-ladakh.jpg",
+      "title": "Ladakh",
+      "synopsis": "Situated amid the jagged crags of the Karakoram and Zanskar mountain ranges, Ladakh offers tourists the chance to immerse themselves in an awe-inspiring alpine desert. Driving around the region's winding roads comes with one incredible natural view after the next: plunging valleys, gushing rivers, snowcapped peaks, and more. Ladakh's enchanting capital, Leh, stands at 3,500 meters above sea level, so you'll want to spend at least a few days acclimating to the altitude before embarking on any strenuous activities. Ladakh didn't open to tourists until 1974. Given its difficult-to-reach location and its long-time isolation, the Buddhist-majority region has retained a unique cultural identity and a somewhat 'untouched' feel. You'll see Buddhist monasteries and temples all around Leh's Old Town, and countless colorful prayer flags fluttering in the breeze."
+    },
+    {
+      "id": 17,
+      "poster": "https://www.planetware.com/wpimages/2022/03/india-best-places-to-visit-manali.jpg",
+      "title": "Manali",
+      "synopsis": "In a country as sweltering as India, it's a relief to find cool weather in hill stations all over the country. Manali happens to be one of the most popular among local and foreign tourists alike. Located in Himachal Pradesh, the high-altitude resort town in the Himalayas makes an easy getaway from Jaipur, New Delhi, or Punjab. The tourist-friendly Old Manali neighborhood brims with chilled-out cafés; great restaurants; and home-stay accommodations, where visitors can experience a local way of life. Manali is also a convenient base if you want to experience the great outdoors in this beautiful region of North India. From here, you can go trekking in the Parvati Valley, paragliding and mountaineering in the Pir Panjal mountains, and white-water rafting down the Beas River. Outfitters around the town can assist with all the arrangements and gear rentals."
+    },
+    {
+      "id": 18,
+      "poster": "https://www.planetware.com/wpimages/2022/03/india-best-places-to-visit-kodagu-abbey-falls.jpg",
+      "title": "kodagu",
+      "synopsis": "Take one look at Kodagu's hilly emerald landscape perpetually blanketed by a cloud of mist, and you'll instantly see why this hill station is nicknamed 'the Scotland of India'. Previously called Coorg, the affluent area's biggest draws are its coffee and spice plantations. Tours of historic agricultural sites give tourists up-close views of how these foods are grown and produced. The lush scenery also makes for great bird-watching and trekking, especially in the Western Ghats. Other popular things to do in Kodagu include seeing the 21-meter Abbey Falls gushing after the rainy season, hearing the chants of young monks at the Namdroling Monastery's famous Golden Temple, visiting the 17th-century Madikeri Fort, and watching elephants take a bath at Dubare Elephant Camp."
+    },
+    {
+      "id": 19,
+      "poster": "https://www.planetware.com/wpimages/2022/03/india-best-places-to-visit-andaman-islands-elephant-beach.jpg",
+      "title": "Andaman Islands",
+      "synopsis": "Andaman Islands are the go-to place in India if you're looking for a classic beach vacation. They'll treat you to powder-white sand beaches flanked by coconut palms, pastel-streaked sunsets, the turquoise waters of the Andaman Sea, and dense jungle landscapes. No postcard could possibly capture the majesty of this gorgeous destination. Its ultra remote location, closer to Indonesia than mainland India, presents challenges for those who want to step foot on one of the few dozen islands open to tourists. You'll need to take a domestic flight from a major Indian city, such as Chennai, New Delhi, or Mumbai. Or, you can brave one of the long-distance ferry rides across the Bay of Bengal."
+    },
+    {
+      "id": 20,
+      "poster": "https://www.planetware.com/wpimages/2022/03/india-best-places-to-visit-mcleod-ganj.jpg",
+      "title": "McLeod Ganj",
+      "synopsis": "Did you know you can visit the home of the Dalai Lama on a trip to India? The Tibetan spiritual leader's base can be found at the Tsuglagkhang complex, a monastic village in the hill station of McLeod Ganj. Most afternoons, you can see monks passionately debate one another in the central courtyard. Make your way around the complex to see pilgrims (many of whom are in exile from Tibet) spinning prayer wheels and prostrating in prayer, along with the temple and throne on which the Dalai Lama delivers his teachings. There's also a small Tibet Museum on-site, which gives tourists a deeper understanding of the struggle Tibetans face amid Chinese occupation through moving photo exhibits and a video."
+    }
+  ],
+  "userDetails": [
+    {
+      "name": "Alan Walker",
+      "email": "djAlan@gmail.com",
+      "password": "12341234",
+      "id": 1
+    }
+  ],
+  "inquiryDetails": [
+    {
+      "fname": "Alan Walker",
+      "lname": "Alan Walker",
+      "email": "djAlan@gmail.com",
+      "mobile": "9990055555",
+      "passengers": "1",
+      "destination": "goa",
+      "departure": "banglore",
+      "departureDate": "2022-05-10",
+      "returnDate": "2022-05-15",
+      "budget": "15000 rupees",
+      "yes": "",
+      "no": "",
+      "nomatter": "",
+      "bnpn": "",
+      "dnpi": "",
+      "train": "",
+      "plane": "",
+      "other": "",
+      "id": 1
+    }
+  ]
+}
