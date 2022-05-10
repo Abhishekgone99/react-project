@@ -1,0 +1,28 @@
+.nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: #4a4e69;
+    align-items: center;
+    height: 50px;
+    color: #c9ada7;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.nav span {
+    font-size: small;
+}
+
+.nav li {
+    display: inline;
+    margin-left: 50px;
+}
+
+.nav li a {
+    text-decoration: none;
+    color: #c9ada7;
+    font-size: large;
+}
+
+.nav li a:hover {
+    color: #ce4257;
+}

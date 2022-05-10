@@ -1,0 +1,40 @@
+.sign form {
+    border: 5px solid black;
+    width: 250px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+.sign label {
+    font-size: large;
+    font-weight: bolder;
+}
+
+.sign input {
+    margin-bottom: 15px;
+    width: 200px;
+    background-color: #22223b;
+    color: #f5ebe0;
+    border: none;
+    border-radius: 10px;
+    height: 25px;
+}
+
+.sign button {
+    background-color: #22223b;
+    color: #f5ebe0;
+    border: none;
+    border-radius: 10px;
+    width: 80px;
+    height: 25px;
+    margin-top: 20px;
+}
+
+.sign form:hover {
+    background-color: #cce3de;
+}
+
+.sign button:hover {
+    background-color: #d00000;
+    color: black;
+}

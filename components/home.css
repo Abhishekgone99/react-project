@@ -1,0 +1,19 @@
+ .slides .carousel img {
+     height: 500px;
+ }
+
+
+ .popplaces {
+     display: flex;
+     justify-content: space-evenly;
+     margin: 50px 0;
+ }
+
+ .popplaces .infomation {
+     color: black;
+ }
+
+ .popplaces .anime:hover {
+     transform: translatey(-25px);
+
+ }

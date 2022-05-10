@@ -1,0 +1,31 @@
+body {
+    background-color: #9a8c98;
+}
+
+.collections img {
+    width: 470px;
+    height: 350px;
+}
+
+.collections {
+    background-color: #cad2c5;
+    border: 5px solid black;
+    width: 500px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 10px;
+    font-family: cursive;
+}
+
+.collections #synopsis {
+    visibility: hidden;
+}
+
+.collections:hover #synopsis {
+    visibility: visible;
+}
+
+.collections button:hover {
+    background-color: red;
+    border: none;
+}
